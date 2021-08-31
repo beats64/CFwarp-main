@@ -94,7 +94,7 @@
 - **：支持X86/ARM架构的纯IPV4、纯IPV6、双栈IPV4+IPV6 VPS脚本**
 
 ```
-wget -N --no-check-certificate https://cdn.jsdelivr.net/gh/ygkkk/CFwarp/multi.sh && chmod +x multi.sh && ./multi.sh
+wget -N --no-check-certificate https://github.com/beats64/CFwarp-main/raw/main/multi.sh && chmod +x multi.sh && ./multi.sh
 ```
 
 进入脚本快捷方式 ```bash multi.sh```
